@@ -1,0 +1,2015 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_496"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the New York University Collection of Contemporary Composers' Websites\n            \u003cnum\u003eMSS.496\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Bess Pittman and Caroline Oliveira"
+                }
+            },
+            "publicationstmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "p": {
+                    "value": "\u003cdate\u003eJune 2017\u003c/date\u003e"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "2nd Floor",
+                        "New York, NY 10012",
+                        "special.collections@nyu.edu",
+                        "URL: "
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace on \u003cdate\u003e2020-01-14 13:58:04\n          -0500\u003c/date\u003e."
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "abstract": {
+                    "value": "This collection consists of a selection\n        of websites produced and operated by contemporary composers for the promotion of their work\n        and careers. \"Contemporary\" we define as living or, in a few cases, very recently deceased.\n        \"Composers\" we define as creative musicians who are working within, are descending from, or\n        are in some significant way connected to the Western traditions of concert music; this\n        includes composers who produce notated scores plus those whose work embraces improvisation,\n        collaborative composition, and other post-modern/post- classical creative practices. The\n        curatorial emphasis is on young, emerging American composers. Their sites typically include\n        biographical data, calendars of performances, catalogs of scores and recordings, and\n        embedded audio and video. Capture of the sites began in 2014 and is ongoing."
+                },
+                "langmaterial": {},
+                "origination": {
+                    "label": "Creator"
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "238 websites"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "New York University Collection of Contemporary Composers' Websites"
+                },
+                "unitid": {
+                    "value": "MSS.496"
+                },
+                "unitdate": {
+                    "normal": "2017/2017",
+                    "value": "2017-ongoing"
+                },
+                "omitempty": ""
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_ce5ba3ca0070fb77065d58be24dd9d9d",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Archived websites are open to researchers without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_c5efa91b4943c6b56c22e5ede65911fa",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "For electronic records: Identification of item, date; New York University Collection of\n        Contemporary Composers' Websites; MSS 496; electronic record identifier; Fales Library \u0026amp;\n        Special Collections, New York University."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Composers -- 21st century"
+                }
+            ]
+        },
+        "dsc": {
+            "c": {
+                "id": "aspace_64f5841524b3e347e081a2195b26b880",
+                "did": {
+                    "origination": {
+                        "label": "source",
+                        "persname": {
+                            "source": "naf",
+                            "value": "Roussel, Patrice,\n              1956-"
+                        }
+                    },
+                    "physdesc": {
+                        "extent": [
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "4\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "2\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "2\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "7\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "2\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "4\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "4\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "2\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "4\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 4 archived\n            websites"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website\n            "
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "2\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "4\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "9\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "4\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website\n            "
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "4\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "2\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "7\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "12\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "2\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "2\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "5\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "3\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived website"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1\n              websites"
+                            },
+                            {
+                                "altrender": "carrier",
+                                "value": "in 1 archived\n            website."
+                            }
+                        ],
+                        "altrender": "whole"
+                    },
+                    "unittitle": {
+                        "value": "Young, Nina C."
+                    },
+                    "unitid": {
+                        "value": "cuid5938"
+                    },
+                    "unitdate": {
+                        "normal": "2015-02/2015-02",
+                        "type": "inclusive",
+                        "value": "February 2015- ongoing"
+                    },
+                    "omitempty": ""
+                },
+                "scopecontent": {
+                    "id": "aspace_a5e90429b98b5aba83d87551da609042",
+                    "head": "Scope and Contents",
+                    "p": {
+                        "value": "The website contains a biography of the artist, information about her compositions and\n            projects, a calendar of her events, a catalog of her works, press and news relating to\n            the artist and her compositions, a gallery of images of the artist, and examples of her\n            works in the form of embedded audio files. The compositions featured on the site\n            highlight her work as a composer of electronic, vocal, and acoustic music for large and\n            small ensemble performance, and for soloists and duos. Capture of the site began in\n            February 2015. This description is based on the October 2017 capture of the site."
+                    }
+                }
+            }
+        },
+        "arrangement": {
+            "id": "aspace_e48561837b2f633ce9ea1a4586bc788c",
+            "head": "Arrangement",
+            "p": {
+                "value": "The collection is arranged in alphabetical order by last name of the composer."
+            }
+        }
+    }
+}

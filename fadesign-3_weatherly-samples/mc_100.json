@@ -1,0 +1,180 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NyNyUA",
+            "value": "mc_100"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": " Guide to the John \"The Cop\" Quigley Collection \u003cnum\u003eMC.100\u003c/num\u003e\n        "
+                    }
+                ],
+                "author": {
+                    "value": "Leslie Barnes."
+                }
+            },
+            "publicationstmt": {
+                "publisher": {
+                    "value": "New York University Archives"
+                },
+                "p": {
+                    "value": "\n          \u003cdate\u003en.d.\u003c/date\u003e\n        "
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "2nd Floor",
+                        "New York, NY 10012",
+                        "special.collections@nyu.edu",
+                        " URL: \n          "
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": " This finding aid was produced using ArchivesSpace on \u003cdate\u003e2020-01-14 14:28:52\n          -0500\u003c/date\u003e . "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "abstract": {
+                    "value": " This collection contains\n        correspondence and questionnaires regarding life at the University Heights campus of New\n        York University and John \"the Cop\" Quigley (1872-1943), the campus' senior patrolman and a\n        popular figure at the school. John Quigley was an officer at the University Heights campus\n        for 47 years. The secretary of the Committee on Publication, Oscar Rose, elicited anecdotes,\n        stories, and photographs from alumnus about Quigley in preparation for \u003cemph render=\"italic\"\n          \u003eForty Years of John the Cop\u003c/emph\u003e , a book that celebrated Quigley's fortieth\n        anniversary at the University Heights campus. "
+                },
+                "langmaterial": {},
+                "origination": {
+                    "label": "Creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Oscar Rose, Secretary of the Committee on Publication; member of\n          the NYU Arts and Engineering Alumni Association"
+                    }
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "0.5 Linear Feet"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 manuscript box"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "physloc": [
+                    {
+                        "Text": "Materials are stored offsite and advance\n        notice is required for use. Please request materials at least two business days prior to\n        your research visit to coordinate access.",
+                        "id": "aspace_ea66875dbfdf0eb8ec0f6132392f1a94"
+                    }
+                ],
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Archives"
+                    }
+                },
+                "unittitle": {
+                    "value": "John \"The Cop\" Quigley Collection"
+                },
+                "unitid": {
+                    "value": "248"
+                },
+                "unitdate": {
+                    "normal": "1935/1937",
+                    "type": "inclusive",
+                    "value": "1935-1937"
+                },
+                "omitempty": ""
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5281bdc41088d5db82d5b96dfeda66b2",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Materials are open without restrictions."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_dec159a2b9fad6b682711c5b6d747bda",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "Identification of item, date; John \"The Cop\" Quigley Collection; MC 100; box number; folder\n        number or item identifier; New York University Archives, New York University."
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_6e804efe4129ae13254e56b9ed7e817d",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Daniel Quilty, Director of Athletics. The accession number associated with this\n        collection is 82.022."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_68484c79ccc8a4381b0b774d4e37ce2c",
+            "head": "Historical note",
+            "p": {
+                "value": "The University Heights campus, located in the Bronx, was a male-only undergraduate campus.\n        It was opened in the late nineteenth-century and sold in 1973."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_15a61a554b0bb2dda76f82350608cb65",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "This collection is comprised of correspondence and questionnaires collected by Oscar Rose\n        between 1935 and 1938 for a proposed biography of John \"\"the Cop\" Quigley. Quigley was a\n        senior patrolman and guardian of the University Heights campus. The correspondence and\n        questionnaires pertain to both John Quigley and life at the University Heights campus of New\n        York University."
+            }
+        },
+        "controlaccess": {
+            "corpname": {
+                "source": "naf",
+                "value": "New York University. University\n        Heights"
+            }
+        },
+        "dsc": {
+            "c": {
+                "id": "aspace_ref75",
+                "did": {
+                    "langmaterial": {
+                        "language": {
+                            "langcode": "eng",
+                            "value": "English"
+                        }
+                    },
+                    "unittitle": {
+                        "value": "Deems Taylor - Letter to Oscar Rose"
+                    },
+                    "unitid": {
+                        "value": "174289"
+                    },
+                    "unitdate": {
+                        "value": "October 16, 1935"
+                    },
+                    "omitempty": "",
+                    "container": {
+                        "id": "aspace_a5cbc64a4d69f154f8e2ac355488b784",
+                        "label": "Mixed Materials [31142063004140]",
+                        "type": "folder",
+                        "value": "74"
+                    }
+                }
+            }
+        },
+        "arrangement": {
+            "id": "aspace_8e4653c9c36887f08c39d821e4ecaa57",
+            "head": "Arrangement",
+            "p": {
+                "value": "Original order was preserved. The materials in this collection do not appear to be arranged\n        chronologically. Each respondent or correspondent has been given a folder."
+            }
+        }
+    }
+}

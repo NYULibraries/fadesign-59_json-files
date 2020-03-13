@@ -1,0 +1,1531 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-F",
+            "value": "mss_460"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": "Guide to the Adele Fournet Papers on the Bit Rosie Web Series\n            \u003cnum\u003eMSS.460\u003c/num\u003e"
+                    }
+                ],
+                "author": {
+                    "value": "Megan O'Shea and Bess Pittman"
+                }
+            },
+            "publicationstmt": {
+                "publisher": {
+                    "value": "Fales Library and Special Collections"
+                },
+                "p": {
+                    "value": "\u003cdate\u003eApril 2017\u003c/date\u003e"
+                },
+                "address": {
+                    "addressline": [
+                        "Elmer Holmes Bobst Library",
+                        "70 Washington Square South",
+                        "2nd Floor",
+                        "New York, NY 10012",
+                        "special.collections@nyu.edu",
+                        "URL: "
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": "This finding aid was produced using ArchivesSpace on \u003cdate\u003e2020-01-14 13:51:09\n          -0500\u003c/date\u003e."
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "abstract": {
+                    "value": "Bit Rosie is a web series about female\n        music producers directed, produced, and edited by Adele Fournet between 2015 and 2016. The\n        project sought to highlight the work of women creating electronic music and to disseminate\n        their work. The Adele Fournet Papers on the Bit Rosie Web Series include 33 video recordings\n        created by Fournet and the website, bitrosie.com, on which the recordings were posted. The\n        recordings include full-length and edited interviews with and performances by 11 of the 12\n        female music producers and groups featured on bitrosie.com. The Bit Rosie website includes\n        the edited interviews and video recordings of performances. The interviews include\n        discussions of the type of music the women create and produce, their creative influences and\n        processes, and their feelings about being women in a male-dominated field."
+                },
+                "langmaterial": {},
+                "origination": {
+                    "label": "Creator",
+                    "persname": {
+                        "source": "local",
+                        "value": "Fournet, Adele"
+                    }
+                },
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "715.37 Gigabytes"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 35 computer files and 1 archived website."
+                        },
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "715.06 Gigabytes"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 35 computer files."
+                        },
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "309.1 Megabytes"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "in 1 archived website."
+                        }
+                    ],
+                    "altrender": "part"
+                },
+                "repository": {
+                    "corpname": {
+                        "value": "Fales Library and Special Collections"
+                    }
+                },
+                "unittitle": {
+                    "value": "Adele Fournet Papers on the Bit Rosie Web Series"
+                },
+                "unitid": {
+                    "value": "MSS.460"
+                },
+                "unitdate": {
+                    "normal": "2015/2016",
+                    "type": "inclusive",
+                    "value": "2015-2016"
+                },
+                "omitempty": ""
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_e20d5987584b9325f8f1e03dfecc30b4",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Edited interviews and video recordings of performance videos are available for public\n        streaming from NYU Libraries' website. The full-length interviews are available for\n        streaming with password authentication from NYU Libraries for researchers with prior\n        approval from the NYU Libraries based on the 2016 agreement with the donor."
+            }
+        },
+        "prefercite": {
+            "id": "aspace_0fac463a815d45650a80afaef22f8aa8",
+            "head": "Preferred Citation",
+            "p": {
+                "value": "For archived website: \"Page Title.\" Archived month/day/year. Adele Fournet Papers on the\n        Bit Rosie Web Series, Fales Library \u0026amp; Special Collections, New York University.\n        https://wayback.archive-it.org/7872/*/http://www.bitrosie.com. (Accessed month/day/year)"
+            }
+        },
+        "acqinfo": {
+            "id": "aspace_09cfef5edad4ed5aa79afe46f58f1706",
+            "head": "Immediate Source of Acquisition",
+            "p": {
+                "value": "Donated by Adele Fournet, September 2016. The accession number associated with this gift is\n        2016.041."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_037946b9adc40ec83edb3de093bf60bf",
+            "head": "Historical Note",
+            "p": {
+                "value": "Bit Rosie is a web series about female music producers directed, produced, and edited by\n        Adele Fournet between 2015 and 2016. The project sought to highlight the work of women\n        creating electronic music and to disseminate their work. Fournet conducted 12 interviews\n        with women working with music technology as producers, DJs, and engineers, both individually\n        and in collaboration with other women. The interviews were conducted between 2015 and 2016\n        in New York, Germany, and Peru."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_7c1f365edc2eadbddf124d4be7a88103",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "The Adele Fournet Papers on the Bit Rosie Web Series documents the work of Fournet in\n        creating her web series, Bit Rosie, about female music producers. The collection contains 33\n        video recordings recorded by Fournet; an archived copy of bitrosie.com, the website on which\n        the series was published; and two spreadsheets created by Fournet with information about\n        each producer. The video recordings include full-length and edited interviews with and\n        performances by 11 of the 12 female music producers featured on bitrosie.com. The producers\n        represented in the collection are Klara Andersson, Orieta Chrem, Julie Covello, Friederike\n        Jäger, Julie Kathryn, Minami Kato, K. Marie Kim, Dion McKenzie, Franziska Plückhan, Pauchi\n        Sasaki, and Gisela Fullá Silvestre. The interviews include discussions of the type of music\n        the women create and produce, their creative influences and processes, and their feelings\n        about being women in a male-dominated field. The interviews were conducted in New York,\n        Germany, and Peru. The website includes brief biographies, edited interviews, and video\n        recordings of performances for 12 female music producers. The spreadsheets include\n        information about the producers, including the type of music they create, the hardware and\n        software they use to create the music, and where they live and work."
+            }
+        },
+        "controlaccess": {
+            "subject": [
+                {
+                    "source": "lcsh",
+                    "value": "Composition (Music) -- 21st century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Electronic music."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Music -- Peru -- 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Women musicians -- Interviews."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Music -- Germany -- 20th century."
+                },
+                {
+                    "source": "lcsh",
+                    "value": "Music -- New York (State) -- New York -- 20th century."
+                }
+            ],
+            "corpname": {
+                "source": "local",
+                "value": "Bit Rosie"
+            }
+        },
+        "dsc": {
+            "c": {
+                "id": "aspace_7951feea619b6c41436c556e0674d1c8",
+                "c": [
+                    {
+                        "id": "aspace_e096440d52bf6383341d67f66b20ceb0",
+                        "c": [
+                            {
+                                "id": "aspace_d72b60b763642b16ff4e54b5a161cb55",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3.95\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Andersson, Klara -- Edited interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5743"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "type": "inclusive",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            },
+                            {
+                                "id": "aspace_501fe7152bc60d4b4b547d4cae4e3097",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "46.81\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Andersson, Klara -- Full-length interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5742"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                },
+                                "accessrestrict": {
+                                    "id": "aspace_b6699b5775f82bf773ac4e4c5cb8a060",
+                                    "head": "Conditions Governing Access",
+                                    "p": {
+                                        "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                    }
+                                }
+                            },
+                            {
+                                "id": "aspace_3a3f220ab7321255616e6e40512c9178",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "6.43\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Andersson, Klara -- Performance"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5744"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            }
+                        ],
+                        "did": {
+                            "unittitle": {
+                                "value": "Andersson, Klara"
+                            },
+                            "unitdate": {
+                                "normal": "2016/2016",
+                                "value": "2016"
+                            },
+                            "omitempty": ""
+                        },
+                        "bioghist": {
+                            "id": "aspace_b8b2a8e41ebca9ff9fbde377f0131508",
+                            "head": "Biographical",
+                            "p": {
+                                "value": "Klara Andersson is a Swedish music composer and performer who utilizes traditional\n              instruments along with technological enhancements to produce her pieces, which seek to\n              explore the line between noise and music. She works under the stage name Fagelle."
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_de1b3418920e96ca20bfb61a85122d97",
+                        "did": {
+                            "unittitle": {
+                                "value": "Archived website"
+                            },
+                            "unitid": {
+                                "value": "cuid7032"
+                            },
+                            "unitdate": {
+                                "normal": "2017/2017",
+                                "value": "2017-ongoing"
+                            },
+                            "omitempty": ""
+                        },
+                        "processinfo": {
+                            "id": "aspace_554795365c1fc0676a7eb7f1423d42af",
+                            "head": "Processing Information",
+                            "p": {
+                                "value": "Date of capture reflects the first date on which the site was crawled. Dates of\n              subsequent crawls can be found in the Wayback Machine."
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_610bbd084c4e8575c3c444c6bc5f2527",
+                        "c": [
+                            {
+                                "id": "aspace_2c6d82fe7c844ee57ed2d64aacaa62bc",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3.52\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Chrem, Orieta -- Edited interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5746"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            },
+                            {
+                                "id": "aspace_07349d9532f786367c4e6b49fa9d0db1",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "39.17\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Chrem, Orieta -- Full-length interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5745"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                },
+                                "accessrestrict": {
+                                    "id": "aspace_6f55fa80ebba9cea4d8de72f0a7ab562",
+                                    "head": "Conditions Governing Access",
+                                    "p": {
+                                        "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                    }
+                                }
+                            },
+                            {
+                                "id": "aspace_c8182235d9443c23459ad5032aad1a05",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Chrem, Orieta -- Performance"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid7033"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            }
+                        ],
+                        "did": {
+                            "unittitle": {
+                                "value": "Chrem, Orieta"
+                            },
+                            "unitdate": {
+                                "normal": "2016/2016",
+                                "value": "2016"
+                            },
+                            "omitempty": ""
+                        },
+                        "bioghist": {
+                            "id": "aspace_1e336479fce664d4681629afb6cdd02a",
+                            "head": "Biographical",
+                            "p": {
+                                "value": "Orieta Chrem is a member of Menores, an experimental hip-hop group based in Lima,\n              Peru. She is also the producer of the group's music."
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_0dd69d61fa4db527d6e1926cd37daa83",
+                        "c": [
+                            {
+                                "id": "aspace_4b70e43e1f3aa403101263a9517ad329",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "5.27\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Covello, Julie -- Edited interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5749"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            },
+                            {
+                                "id": "aspace_a2b47e7dbb1f49dbf76e7867a84ccf8f",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "66.31\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Covello, Julie -- Full-length interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5748"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                },
+                                "accessrestrict": {
+                                    "id": "aspace_22e4a3e64d92d5b5797ee0aabe7bf94f",
+                                    "head": "Conditions Governing Access",
+                                    "p": {
+                                        "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                    }
+                                }
+                            },
+                            {
+                                "id": "aspace_0e3b82f1bf6dcc14aa3ab87d3b18ef61",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "4.36\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Covello, Julie -- Performance"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5750"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2015/2015",
+                                        "value": "2015"
+                                    },
+                                    "omitempty": ""
+                                }
+                            }
+                        ],
+                        "did": {
+                            "unittitle": {
+                                "value": "Covello, Julie"
+                            },
+                            "unitdate": {
+                                "normal": "2015/2016",
+                                "type": "inclusive",
+                                "value": "2015-2016"
+                            },
+                            "omitempty": ""
+                        },
+                        "bioghist": {
+                            "id": "aspace_f5a0db7a92320759a355922b553914f3",
+                            "head": "Biographical",
+                            "p": {
+                                "value": "Julie Covello, working under her stage name \"DJ Shakey\", is the producer for a\n              freestyle musical duo based out of Brooklyn, NY, called Opal Crocus. She also has a\n              solo career as a composer and performer."
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_901b50dd9010c2bb544a2a34792d655f",
+                        "did": {
+                            "physdesc": {
+                                "extent": [
+                                    {
+                                        "altrender": "materialtype spaceoccupied",
+                                        "value": "13.81\n                kilobytes"
+                                    },
+                                    {
+                                        "altrender": "carrier",
+                                        "value": "in 2 spreadsheets."
+                                    }
+                                ],
+                                "altrender": "whole"
+                            },
+                            "unittitle": {
+                                "value": "Inventories"
+                            },
+                            "unitid": {
+                                "value": "cuid7031"
+                            },
+                            "unitdate": {
+                                "normal": "2016/2016",
+                                "value": "2016"
+                            },
+                            "omitempty": ""
+                        }
+                    },
+                    {
+                        "id": "aspace_68df6f955d8be4f25a6f5fdc9bd9ebcb",
+                        "c": [
+                            {
+                                "id": "aspace_7132949bde3c67ea37f2c4c7dbd12c5a",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3.96\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Jäger, Friederike -- Edited interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5752"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            },
+                            {
+                                "id": "aspace_7d22aa1763dad9b676263dad2ce1df24",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "27.79\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Jäger, Friederike -- Full-length interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5751"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                },
+                                "accessrestrict": {
+                                    "id": "aspace_102cd3894ab76d266c52bc5d354957ce",
+                                    "head": "Conditions Governing Access",
+                                    "p": {
+                                        "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                    }
+                                }
+                            },
+                            {
+                                "id": "aspace_9c5c0655f35b850cb5454a1f6cbc78f4",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "2.87\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Jäger, Friederike -- Performance"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5753"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            }
+                        ],
+                        "did": {
+                            "unittitle": {
+                                "value": "Jäger, Friederike"
+                            },
+                            "unitdate": {
+                                "normal": "2016/2016",
+                                "value": "2016"
+                            },
+                            "omitempty": ""
+                        },
+                        "bioghist": {
+                            "id": "aspace_6b8104444899b72d987733469ca080b3",
+                            "head": "Biographical",
+                            "p": {
+                                "value": "Friederike Jager is a composer and performer based in Berlin, Germany. She composes\n              musical works with strong visual components as well as producing music for\n              theater."
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_c8cd0d67a78a5f9691b29d6238dd74d8",
+                        "c": [
+                            {
+                                "id": "aspace_298fcbfecc38d16e889a64e37e1feb6a",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "2.96\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Kathryn, Julie -- Edited interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5755"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            },
+                            {
+                                "id": "aspace_f4b887c1fee7c96e004de91fed5cb60c",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "48.62\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Kathryn, Julie -- Full-length interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5754"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                },
+                                "accessrestrict": {
+                                    "id": "aspace_997bba4039f09af909cf0f54f7aa22ef",
+                                    "head": "Conditions Governing Access",
+                                    "p": {
+                                        "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                    }
+                                }
+                            },
+                            {
+                                "id": "aspace_bc19f074b130e8d187d8a85ebc9f2c00",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3.18\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Kathryn, Julie -- Performance"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5756"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            }
+                        ],
+                        "did": {
+                            "unittitle": {
+                                "value": "Kathryn, Julie"
+                            },
+                            "unitdate": {
+                                "normal": "2016/2016",
+                                "value": "2016"
+                            },
+                            "omitempty": ""
+                        },
+                        "bioghist": {
+                            "id": "aspace_7bd50b81a1bdad31cdf2162da14a11d3",
+                            "head": "Biographical",
+                            "p": {
+                                "value": "Julie Kathryn is a music composer, producer, and performer based in New York City.\n              She is also on of the lead producers of the group \"Female Frequency\", an organization\n              dedicated to encouraging women to make music. She has composed and performed under her\n              own name as well as the stage name \"I Am Snow Angel\", which designates her exploration\n              of a mre pop-electronic style of music."
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_d6cb18f1515be19977f748b9260d3554",
+                        "c": [
+                            {
+                                "id": "aspace_35315a00246f4c978e29a29d8eb8973a",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "4.22\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Kato, Minami -- Edited interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5758"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2015/2015",
+                                        "value": "2015"
+                                    },
+                                    "omitempty": ""
+                                }
+                            },
+                            {
+                                "id": "aspace_63561ab3b5923bb00b5d1cccbc46758b",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "46.69\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Kato, Minami -- Full-length interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5757"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2015/2015",
+                                        "value": "2015"
+                                    },
+                                    "omitempty": ""
+                                },
+                                "accessrestrict": {
+                                    "id": "aspace_70b79a2d2bccb1002f31e6d36e9ccd28",
+                                    "head": "Conditions Governing Access",
+                                    "p": {
+                                        "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                    }
+                                }
+                            },
+                            {
+                                "id": "aspace_42865f4db8ccee52618a8411ebcd63f2",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3.22\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Kato, Minami -- Performance"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5759"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2015/2015",
+                                        "value": "2015"
+                                    },
+                                    "omitempty": ""
+                                }
+                            }
+                        ],
+                        "did": {
+                            "unittitle": {
+                                "value": "Kato, Minami"
+                            },
+                            "unitdate": {
+                                "normal": "2015/2015",
+                                "value": "2015"
+                            },
+                            "omitempty": ""
+                        },
+                        "bioghist": {
+                            "id": "aspace_545c426b87144b81680753e4326f6777",
+                            "head": "Biographical",
+                            "p": {
+                                "value": "Minami Kato is a Japanese composer and producer based in Brooklyn, NY. Her love for\n              technology and music shape her creations, although she also plays several traditional\n              instruments."
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_3f0ef4fb72adb21fa99df609cda03242",
+                        "c": [
+                            {
+                                "id": "aspace_b4eb9da33974c9a0ebd1468113335d25",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3.53\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Kim, K. Marie -- Edited interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5761"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            },
+                            {
+                                "id": "aspace_6a394afe28cc0370c4f7818ee93c8895",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "35.84\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Kim, K. Marie -- Full-length interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5760"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                },
+                                "accessrestrict": {
+                                    "id": "aspace_a7cd07f218bf23302dd1254d1050148e",
+                                    "head": "Conditions Governing Access",
+                                    "p": {
+                                        "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                    }
+                                }
+                            },
+                            {
+                                "id": "aspace_0155c334eda826ee3be56020f860521c",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3.08\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Kim, K. Marie -- Performance"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5762"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            }
+                        ],
+                        "did": {
+                            "unittitle": {
+                                "value": "Kim, K. Marie"
+                            },
+                            "unitdate": {
+                                "normal": "2016/2016",
+                                "value": "2016"
+                            },
+                            "omitempty": ""
+                        },
+                        "bioghist": {
+                            "id": "aspace_40cfc2d37768e5da93cbd55ec90b0646",
+                            "head": "Biographical",
+                            "p": {
+                                "value": "K. Marie Kim, a member of the alt-pop duo Blank Paper and session musician, is a\n              composer and performer based in Brooklyn, NY. She has also performed with musical\n              groups in several other genres and created music for short films and pilots."
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_2f903e908706a81cf4bd4aafa1fa2cd4",
+                        "c": [
+                            {
+                                "id": "aspace_b0983b6d65944039ab1ca31f61dce895",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "18.27\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "McKenzie, Dion -- Edited interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5764"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            },
+                            {
+                                "id": "aspace_bc0f4d970eb19b7fc5b782fdcebff817",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "219.42\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "McKenzie, Dion -- Full-length interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5763"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                },
+                                "accessrestrict": {
+                                    "id": "aspace_db82f587b3a6e0f2e3465b1527e8e624",
+                                    "head": "Conditions Governing Access",
+                                    "p": {
+                                        "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                    }
+                                }
+                            },
+                            {
+                                "id": "aspace_1bdcef3343c3a46a12612acdda500077",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "5.93\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "McKenzie, Dion -- Performance"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5765"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2015/2015",
+                                        "value": "2015"
+                                    },
+                                    "omitempty": ""
+                                }
+                            }
+                        ],
+                        "did": {
+                            "unittitle": {
+                                "value": "McKenzie, Dion"
+                            },
+                            "unitdate": {
+                                "normal": "2015/2016",
+                                "type": "inclusive",
+                                "value": "2015-2016"
+                            },
+                            "omitempty": ""
+                        },
+                        "bioghist": {
+                            "id": "aspace_23fe04ffcdd70bc7e3dcf18c9abcdaa7",
+                            "head": "Biographical",
+                            "p": {
+                                "value": "Dion McKenzie is a Jamaican musician based in Brooklyn, NY. She is a producer and DJ\n              who also works as a curator for two queer clubs in New York City, where she showcases\n              her experimental club sound."
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_162408e8a9a6f8b794989e1f72f566a5",
+                        "c": [
+                            {
+                                "id": "aspace_87dc1b3c2549ae7a52dac06bfc9cd194",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3.49\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Plückhan, Franziska -- Edited interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5767"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            },
+                            {
+                                "id": "aspace_be55e9d26d3e3202078e1cf59327707c",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "38.37\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Plückhan, Franziska -- Full-length interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5766"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                },
+                                "accessrestrict": {
+                                    "id": "aspace_90f4aca16e91848a4a14e5a460b8aa8b",
+                                    "head": "Conditions Governing Access",
+                                    "p": {
+                                        "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                    }
+                                }
+                            },
+                            {
+                                "id": "aspace_5cc0026c150804366f214c82392c7242",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3.98\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Plückhan, Franziska -- Performance"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5768"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            }
+                        ],
+                        "did": {
+                            "unittitle": {
+                                "value": "Plückhan, Franziska"
+                            },
+                            "unitdate": {
+                                "normal": "2016/2016",
+                                "value": "2016"
+                            },
+                            "omitempty": ""
+                        },
+                        "bioghist": {
+                            "id": "aspace_5a2f51307b834c8c7ed288aa62b47280",
+                            "head": "Biographical",
+                            "p": {
+                                "value": "Franziska Plückhan is a composer, producer, and performer based in Berlin, Germany.\n              She works in the alt-pop genre under the stage name \"Sissip\"."
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_3bf776d874eef28770127db55cb76fe0",
+                        "c": [
+                            {
+                                "id": "aspace_72a0ce37bc370413a4833239455a065d",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3.18\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Sasaki, Pauchi -- Edited interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5770"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            },
+                            {
+                                "id": "aspace_7366ed074ec599915e78091d95d9a8d1",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "50.13\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Sasaki, Pauchi -- Full-length interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5769"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                },
+                                "accessrestrict": {
+                                    "id": "aspace_9ecc66c3abc89eca24c30efd475f1bdd",
+                                    "head": "Conditions Governing Access",
+                                    "p": {
+                                        "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                    }
+                                }
+                            },
+                            {
+                                "id": "aspace_8abb4def6dd5b1b73f144c8f14f5b0b6",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "4.07\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Sasaki, Pauchi -- Performance"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5771"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2016/2016",
+                                        "value": "2016"
+                                    },
+                                    "omitempty": ""
+                                }
+                            }
+                        ],
+                        "did": {
+                            "unittitle": {
+                                "value": "Sasaki, Pauchi"
+                            },
+                            "unitdate": {
+                                "normal": "2016/2016",
+                                "value": "2016"
+                            },
+                            "omitempty": ""
+                        },
+                        "bioghist": {
+                            "id": "aspace_70018958e752d523f4563334834e06dd",
+                            "head": "Bibliographical",
+                            "p": {
+                                "value": "Pauchi Sasaki is a Peruvian-Japanese composer who utilizes her knowledge of\n              programming to make music that combines technology with traditional instruments."
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ca6b2f0321b5079be00eb2c8692790b1",
+                        "c": [
+                            {
+                                "id": "aspace_f5d9749b92fdd2d8a54a4fe77738e4c4",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "4.85\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Silvestre, Gisela Fullá -- Edited interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5773"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2015/2015",
+                                        "value": "2015"
+                                    },
+                                    "omitempty": ""
+                                }
+                            },
+                            {
+                                "id": "aspace_c377c5eaffd322fb6ac7fb2b7026965d",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "47.37\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": " Silvestre, Gisela Fullá -- Full-length interview"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5772"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2015/2015",
+                                        "value": "2015"
+                                    },
+                                    "omitempty": ""
+                                },
+                                "accessrestrict": {
+                                    "id": "aspace_a948eaad2c30538812220f7c5f2f3e97",
+                                    "head": "Conditions Governing Access",
+                                    "p": {
+                                        "value": "This video recording is available for streaming with password authentication from\n                NYU Libraries for researchers with prior approval based on the 2016 agreement with\n                the donor."
+                                    }
+                                }
+                            },
+                            {
+                                "id": "aspace_24423b2187c2cf8c0def3303f54a0877",
+                                "did": {
+                                    "physdesc": {
+                                        "extent": [
+                                            {
+                                                "altrender": "materialtype spaceoccupied",
+                                                "value": "3.72\n                  Gigabytes"
+                                            },
+                                            {
+                                                "altrender": "carrier",
+                                                "value": "in 1 video file."
+                                            }
+                                        ],
+                                        "altrender": "whole"
+                                    },
+                                    "unittitle": {
+                                        "value": "Silvestre, Gisela Fullá -- Performance"
+                                    },
+                                    "unitid": {
+                                        "value": "cuid5774"
+                                    },
+                                    "unitdate": {
+                                        "normal": "2015/2015",
+                                        "value": "2015"
+                                    },
+                                    "omitempty": ""
+                                }
+                            }
+                        ],
+                        "did": {
+                            "unittitle": {
+                                "value": "Silvestre, Gisela Fullá"
+                            },
+                            "unitdate": {
+                                "normal": "2015/2015",
+                                "value": "2015"
+                            },
+                            "omitempty": ""
+                        },
+                        "bioghist": {
+                            "id": "aspace_cd147a5614f90a30176f7f28295f260c",
+                            "head": "Biographical",
+                            "p": {
+                                "value": "Gisela Fullá Silvestre is a producer, composer, and sound designer based in Brooklyn,\n              NY. She is originally from Barcelona, Spain. She works under the stage name NOIA."
+                            }
+                        }
+                    }
+                ],
+                "did": {
+                    "unittitle": {
+                        "value": "Adele Fournet Papers on the Bit Rosie Web Series"
+                    },
+                    "omitempty": ""
+                }
+            }
+        },
+        "arrangement": {
+            "id": "aspace_4cf071e9696a50e3f04589bfbe0f60e9",
+            "head": "Arrangement",
+            "p": {
+                "value": "The collection is arranged in alphabetical order by last name of the music producer or\n        format of material."
+            }
+        }
+    }
+}

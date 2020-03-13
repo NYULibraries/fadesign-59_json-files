@@ -1,0 +1,2359 @@
+{
+    "eadheader": {
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "countrycode": "AE",
+            "value": "turkish"
+        },
+        "filedesc": {
+            "titlestmt": {
+                "titleproper": [
+                    {
+                        "value": " Guide to the Turkish Photography Collection \u003clb/\u003e 1910-1990 \u003clb/\u003e\n          \u003cnum\u003eAD.MC.007\u003c/num\u003e\n        "
+                    }
+                ],
+                "author": {
+                    "value": "Collection processed by Akkasah: Center for Photography NYUAD"
+                }
+            },
+            "publicationstmt": {
+                "publisher": {
+                    "value": "New York University Abu Dhabi Library"
+                },
+                "address": {
+                    "addressline": [
+                        "AbuDhabi"
+                    ]
+                }
+            }
+        },
+        "profiledesc": {
+            "creation": {
+                "value": " This finding aid was produced using ArchivesSpace \u003cdate\u003e2020-01-14T19:38:41\u003c/date\u003e\n      "
+            },
+            "langusage": {}
+        }
+    },
+    "archdesc": {
+        "level": "collection",
+        "did": [
+            {
+                "physdesc": {
+                    "extent": [
+                        {
+                            "altrender": "materialtype spaceoccupied",
+                            "value": "15 paige_boxes"
+                        },
+                        {
+                            "altrender": "carrier",
+                            "value": "17000 photos"
+                        }
+                    ],
+                    "altrender": "whole"
+                },
+                "repository": {
+                    "corpname": {
+                        "value": "New York University Abu Dhabi Library"
+                    }
+                },
+                "unittitle": {
+                    "value": "Turkey Collection"
+                },
+                "unitid": {
+                    "value": "AD.MC.007"
+                },
+                "unitdate": {
+                    "normal": "1930/1960",
+                    "type": "bulk",
+                    "value": "1930-1960"
+                },
+                "omitempty": "",
+                "container": {
+                    "id": "aspace_822babfcc139dc53eeef273387c47388",
+                    "label": "Graphic Materials",
+                    "type": "Box",
+                    "value": "25"
+                }
+            }
+        ],
+        "accessrestrict": {
+            "id": "aspace_5354e2e3e7f5a09b62e01e126ef72b39",
+            "head": "Conditions Governing Access",
+            "p": {
+                "value": "Digitization of this collection is underway; thumbnail images will be published here as\n        they become available."
+            }
+        },
+        "bioghist": {
+            "id": "aspace_f9eeec09699596c5f3f65fa54acf2482",
+            "head": "Biographical / Historical",
+            "p": {
+                "value": "The primary aim of Akkasah, the Center for Photography at New York University Abu Dhabi is\n        to explore the histories and contemporary practices of photography in the Middle East and\n        North Africa, and to establish a major hub for scholarly research on photography in the\n        region. The Middle East and North Africa have rich traditions of documentary, vernacular,\n        and art photography and these traditions have yet to receive the full critical attention\n        they deserve. Akkasah investigates these histories and practices in dialogue with other\n        photographic cultures and traditions from around the world."
+            }
+        },
+        "scopecontent": {
+            "id": "aspace_e626e2686078d8131f35d140d7ee5f79",
+            "head": "Scope and Contents",
+            "p": {
+                "value": "Akkasah's collection from Turkey currently includes more than 15,000 images from the late\n        Ottoman era and the modern Turkish Republic. The collection is comprised primarily of\n        amateur photographs from family albums and of individual and group portraits taken in\n        various studios across Turkey. Though many date back to the first decade of the 20th century\n        and some are from as late as the 1970s and 1980s, the core of the collection focuses on the\n        period from the 1920s through to the end of the 1950s. The collection also contains a\n        substantial number of orientalist postcards from major Ottoman cities including Istanbul,\n        Cairo, Alexandria, Port Said, Damascus and Beirut."
+            }
+        },
+        "controlaccess": {},
+        "dsc": {
+            "c": {
+                "id": "aspace_ad4f74158bac578a171d92734fa395b6",
+                "c": [
+                    {
+                        "id": "aspace_ref146_wpi",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Three women in the same uniform at Garanti Bank around a desk with a\n              telephone on it. 8.9 x 13.9 cm"
+                            },
+                            "unitid": {
+                                "value": "1887"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_33277aa5a7c82c6d942c632afe280484",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "9"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref845_tny",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Garanti Bank Series - Two women in short dresses, locking arms, standing in\n              front of a wooden faced counter. 13.9 x 9.0 cm"
+                            },
+                            "unitid": {
+                                "value": "2588"
+                            },
+                            "unitdate": {
+                                "value": "March 1970"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_d36fb48732e95b9516dbcbbba20c3d6e",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "23"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref846_0h8",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Garanti Bank Series - Two women in matching outfits, locking arms with a\n              third woman in a dark coat, with flower arrangements in the background. 13.9 x 8.9\n              cm"
+                            },
+                            "unitid": {
+                                "value": "2589"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_a61085c298d49c1b5af0d57f968d1f4c",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "23"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref847_e03",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Garanti Bank Series - Two women, one in a light dress with a dark collar and\n              one in a black dress, standing in front of some curtains. 14.0 x 9.1 cm"
+                            },
+                            "unitid": {
+                                "value": "2590"
+                            },
+                            "unitdate": {
+                                "value": "29 November 1965"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_d2875c7d87e0da865971dce88d8fdd08",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "23"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref848_47h",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Garanti Bank Series - A woman sitting at a desk talking on a telephone. 13.8\n              x 9.0 cm"
+                            },
+                            "unitid": {
+                                "value": "2591"
+                            },
+                            "unitdate": {
+                                "value": "March 1970"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_6b0f3e15206976108a1ce3d80c8496d8",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "23"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref849_8lf",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Garanti Bank Series - People sitting in an office at desk, with filing\n              cabinets and lots of flowers. Mecidiyekoy, Istanbul, Turkey. 8.9 x 13.9 cm"
+                            },
+                            "unitid": {
+                                "value": "2592"
+                            },
+                            "unitdate": {
+                                "value": "8 July 1974"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_e8767dde855583f5a9267ffcfa792b76",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "23"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref850_7lv",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Garanti Bank Series - Women of varying ages seated behind a desk with a\n              telephone on it. 9.0 x 13.8 cm "
+                            },
+                            "unitid": {
+                                "value": "2593"
+                            },
+                            "unitdate": {
+                                "value": "March 1970"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_f7fae2e8a9e6b7b48bca745d54011777",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "23"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref1338_u8k",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Employees of the Garanti Bank of Turkey. 8.9 x 13.9 cm"
+                            },
+                            "unitid": {
+                                "value": "3447"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_1f3e7963e9515a90606b8aac06281c72",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "23"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref1371_u9r",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Garanti Bank Series - Two women, sitting behind a large desk in an office.\n              8.9 x 14.0 cm"
+                            },
+                            "unitid": {
+                                "value": "3502"
+                            },
+                            "unitdate": {
+                                "value": "8 July 1974"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_91e2ab5a33d909af32009fc647a681b7",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "3"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref1510_ff6",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "A group of women wearing matching uniforms from the Garanti Bank. 8.7 x 13.8\n              cm"
+                            },
+                            "unitid": {
+                                "value": "3976"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_e0f5f869dc6dbc56a52c42c8654ad9b6",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "17"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2807_lav",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Nebahat portrait series - Kanzler Studio portrait, wearing a fur collar. 13.7\n              x 8.7 cm"
+                            },
+                            "unitid": {
+                                "value": "6724"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_ba20803747601d26859b8f8475780e13",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "19"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2808_l85",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Nebahat portrait series - Kanzler studio portrait in profile. 13.9 x 9\n              cm"
+                            },
+                            "unitid": {
+                                "value": "6725"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_7cc5fb0b156b86b6cd14272fde6e11e9",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "19"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2863_yc1",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Nebahat portrait series - Sebah \u0026amp; Joaillier in profile (duplicate of\n              ref2809). 13.4 x 8.7 cm"
+                            },
+                            "unitid": {
+                                "value": "6780"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_e101b9810aa961c64751c7071989a200",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "19"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2809_grm",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Nebahat portrait series - Sebah \u0026amp; Joaillier portrait in profile\n              (duplicate of ref2863). 13.4 x 8.7 cm"
+                            },
+                            "unitid": {
+                                "value": "6726"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_3fd2e82054b4f2c9c617db83d1196199",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "19"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2810_8vu",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Nebahat portrait series - Studio Iris portrait, in a light colored blouse.\n              13.8 x 8.5 cm"
+                            },
+                            "unitid": {
+                                "value": "6727"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_ef55da42c6a4be4080b288dc806cac96",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "19"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2971_xl9",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Nebahat portrait series - Foto Sureyya portrait, wearing a knitted jumper.\n              13.7 x 8.6 cm"
+                            },
+                            "unitid": {
+                                "value": "6888"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_7dfe54e8a93ed774fc387e231b9b6602",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "19"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2972_6gl",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Nebahat portrait series - Photo Francais portrait, wearing a lace collar.\n              13.3 x 8.5 cm"
+                            },
+                            "unitid": {
+                                "value": "6889"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_e2e8a26211d899f116bf534748350db0",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "19"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2509_2l3",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Rifat Arinci series - Iskilip, Azmimilli High School A group of students\n              stand around a central table in a classroom (see ref2510). 9.1 x 14 cm"
+                            },
+                            "unitid": {
+                                "value": "6415"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_f34bea689c301dcfab7f79ea13b1bfc8",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "9"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2510_fve",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Rifat Arinci series - Iskilip, Azmimilli High School A group of boys stand\n              around a central table in a classroom on which is a model head (see ref2509). 9 x 14\n              cm"
+                            },
+                            "unitid": {
+                                "value": "6416"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_d42836fe1451f2ea3b53b656efca6984",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "9"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2384_57v",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Rifat Arinci series - Halil Rifat Arinci in front of the The Museum Of The\n              Ancient Orient, after inspecting the Istanbul Cinili Kosk (The Tiled Kiosk) Museum\n              (linked ref2302). 14 x 8.8 cm"
+                            },
+                            "unitid": {
+                                "value": "6265"
+                            },
+                            "unitdate": {
+                                "value": "6 July 1935"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_1f870d65cdf9cb3a23f4a9079dea36a5",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "18"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2330_io4",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Rifat Arinci series - Halil Rifat Arinci after inspecting the Istanbul Cinili\n              Kosk (The Tiled Kiosk) Museum (linked ref2302) 8.8 x 13.9 cm"
+                            },
+                            "unitid": {
+                                "value": "6211"
+                            },
+                            "unitdate": {
+                                "value": "6 July 1935"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_2185bd2461bfd3f098b7e1e7e5806778",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "12"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3628_765",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Rifat Arinci series - Arinci on the steps of Mecma-ı Âsâr-ı Atika Muzesi\n              (Istanbul Archaeology Museums today). 13.9 x 8.8 cm"
+                            },
+                            "unitid": {
+                                "value": "8353"
+                            },
+                            "unitdate": {
+                                "value": "6 July 1935"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_0dcdb62be10b524ca8bd4471702b5bee",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "1"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3665_eki",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Rifat Arinci series - Arinci giving a speech at the Monument of Martyrs\n              (Şehitler Abidesi) in Corum. 8.8 x 13.9 cm"
+                            },
+                            "unitid": {
+                                "value": "8390"
+                            },
+                            "unitdate": {
+                                "value": "30 October 1939"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_f24d555cfd6799a70971449b2805cfc7",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "5"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3666_rvr",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Rifat Arinci series - Arinci giving a speech at the Monument of Martyrs\n              (Şehitler Abidesi) in Corum. 8.8 x 13.9 cm"
+                            },
+                            "unitid": {
+                                "value": "8391"
+                            },
+                            "unitdate": {
+                                "value": "30 October 1939"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_16ddf760d5bc0f6fbbd3bfdafc26bc0a",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "5"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3559_qmk",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "A group of teachers (linked to Iskilip Azmimilli Primary School series). 8.9\n              x 13.9 cm"
+                            },
+                            "unitid": {
+                                "value": "8268"
+                            },
+                            "unitdate": {
+                                "value": "Undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_f596f5ec8c1868ccda16efb354f89701",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "14"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref1869_q9h",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Iskilip Azmimilli Primary School series: A group of boys and their teacher\n              standing in a classroom (linked ref1870, ref2301, ref2302, ref2304 and ref3387). 9 x\n              12.7 cm"
+                            },
+                            "unitid": {
+                                "value": "4941"
+                            },
+                            "unitdate": {
+                                "value": "29 March 1926"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_952f8d3d443ce7af06bd088d01adaa88",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "4"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref1870_4lz",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Iskilip Azmimilli Primary School series: A group of boys and their teacher\n              (linked ref1869, ref2301, ref2302, ref2304 and ref3387). 13.7 x 8.8 cm"
+                            },
+                            "unitid": {
+                                "value": "4942"
+                            },
+                            "unitdate": {
+                                "value": "29 March 1926"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_08c84a5eb35e71b22bc75c1e3925169c",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "4"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2301_2wd",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Iskilip Azmimilli Primary School series: A group of boys and their teacher\n              stand in some gardens. Text on reverse: in agriculture class (linked with ref1869,\n              ref1870, ref2302, ref2304 and ref3387). 14 x 9 cm"
+                            },
+                            "unitid": {
+                                "value": "6181"
+                            },
+                            "unitdate": {
+                                "value": "16 April 1925"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_859ff3553a671eed94394bdcd0a91f4a",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "9"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2302_o3n",
+                        "did": {
+                            "origination": {
+                                "label": "Creator"
+                            },
+                            "unittitle": {
+                                "value": "Iskilip Azmimilli Primary School series: A group of boys and teacher in a\n              laboratory (linked with ref1869, ref1870, ref2301, ref2304 and ref3387). 9 x 14\n              cm"
+                            },
+                            "unitid": {
+                                "value": "6182"
+                            },
+                            "unitdate": {
+                                "value": "6 March 1920"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_b52f9f453351427e9be250cc64a25193",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "9"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2304_v7o",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Iskilip Azmimilli Primary School series: A group of students and teachers\n              pose in some gardens (linked with ref1869, ref1870, ref2301, ref2304 and ref3387). 8.9\n              x 14.1 cm"
+                            },
+                            "unitid": {
+                                "value": "6184"
+                            },
+                            "unitdate": {
+                                "value": "17 April 1931"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_901dd4371c3cd7280179d70b93af21bd",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "10"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3387_w6z",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Iskilip Azmimilli Primary School series: A papier-mâché statue holding\n              various items, a poster with a flag is in the background (linked with ref1869,\n              ref1870, ref2301, ref2302, ref2304 and ref3387). 13.8 x 9 cm"
+                            },
+                            "unitid": {
+                                "value": "7329"
+                            },
+                            "unitdate": {
+                                "value": "1927"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_a9854ebd4e63484d27176d75771dd55a",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "17"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2319_ndh",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Iskilip Azmimilli Primary School series - Teachers (Text links to ref2301,\n              ref2302 and ref2304).13.5 x 8.8 cm"
+                            },
+                            "unitid": {
+                                "value": "6199"
+                            },
+                            "unitdate": {
+                                "value": "undated"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_893aa3337980b750fc254d02d1722ede",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "11"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2767_i6z",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "A woman sits outdoors wearing an ornate gown and holding a fan. Azmimilli\n              High school. 13.7 x 8.8 cm"
+                            },
+                            "unitid": {
+                                "value": "6684"
+                            },
+                            "unitdate": {
+                                "value": "1946-1947"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_e200ef5d9ebfc75961c8841e66f3b5fa",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "15"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3544_mch",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Uniformed boys series: A group of boys wearing uniforms with one man, some\n              hold books. 8.9 x 14 cm"
+                            },
+                            "unitid": {
+                                "value": "8253"
+                            },
+                            "unitdate": {
+                                "value": "8 December 1931"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_37d0ffa692af5dbcade2fa5be8a5fd35",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "12"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3545_rt2",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Uniformed boys series: A group of boys and men holding snowballs. 8.9 x 13.8\n              cm"
+                            },
+                            "unitid": {
+                                "value": "8254"
+                            },
+                            "unitdate": {
+                                "value": "December 1930"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_a020f3e209d038b62bb676d2f8bb714f",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "13"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3552_ikm",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Uniformed boys series: A group of boys holding snowballs. 8.9 x 13.8\n              cm"
+                            },
+                            "unitid": {
+                                "value": "8261"
+                            },
+                            "unitdate": {
+                                "value": "23 December 1931"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_7cd59e0631a5c6af0ea70d30e99040b1",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "13"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3561_nsg",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Uniformed boys series: A group of young men and boys in uniform posing\n              outdoors. 8.9 x 14 cm"
+                            },
+                            "unitid": {
+                                "value": "8270"
+                            },
+                            "unitdate": {
+                                "value": "1933"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_9390f6b43e471ebcf3017c63d66d6796",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "14"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref2229_k7m",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Sariyer portrait series: A young woman looks out across mountains. Text\n              reads: At Hunkar Suyu, Sariyer, Istanbul (see ref3226, ref3306 and ref3309). 13.8 x\n              8.8 cm"
+                            },
+                            "unitid": {
+                                "value": "6109"
+                            },
+                            "unitdate": {
+                                "value": "4 April 1941"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_74eafac34a205d0b569b9c728a9abefc",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "2"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3226_46i",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Sariyer portrait series: A young woman looks out across mountains. Text\n              reads: At Hunkar Suyu, Sariyer, Istanbul (see ref2229, ref3226, ref3306 and ref3309).\n              13.8 x 8.8 cm"
+                            },
+                            "unitid": {
+                                "value": "7160"
+                            },
+                            "unitdate": {
+                                "value": "4 April 1941"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_bc6a1cc204f5608aeb26c34546afe5eb",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "1"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3306_oeh",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Sariyer portrait series: A woman sits at a table at a high point. At Hunkar\n              Suyu, Sariyer, Istanbul (see ref2229, ref3226 and ref3309). 13.8 x 8.8 cm"
+                            },
+                            "unitid": {
+                                "value": "7246"
+                            },
+                            "unitdate": {
+                                "value": "4 May 1941"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_2d57ab14f7cc40f1decdcac1fc7072a7",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "9"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3309_zfv",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Sariyer portrait series: A woman stands at a viewpoint, looking out over a\n              hillside. Text reads: At Hunkar Suyu, Sariyer. (see ref2229, ref3226 and ref3306).\n              13.9 x 8.7 cm"
+                            },
+                            "unitid": {
+                                "value": "7249"
+                            },
+                            "unitdate": {
+                                "value": "4 May 1941"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_872ddb9fefab87789edf034ffccfd933",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "9"
+                            }
+                        }
+                    },
+                    {
+                        "id": "aspace_ref3600_biw",
+                        "did": {
+                            "origination": {
+                                "label": "Creator",
+                                "persname": {
+                                    "source": "local",
+                                    "value": "Unknown"
+                                }
+                            },
+                            "unittitle": {
+                                "value": "Sariyer portrait series: A young woman leans on a fence at a viewpoint (see\n              ref2229, ref3226, ref3306 and ref3309). 13.8 x 8.7 cm"
+                            },
+                            "unitid": {
+                                "value": "8315"
+                            },
+                            "unitdate": {
+                                "value": "1941"
+                            },
+                            "omitempty": "",
+                            "container": {
+                                "id": "aspace_28dcf514c7c2b5b2ab0a611a200f2b59",
+                                "label": "Graphic Materials",
+                                "type": "Folder",
+                                "value": "18"
+                            }
+                        }
+                    }
+                ],
+                "did": {
+                    "origination": {
+                        "label": "Creator",
+                        "persname": {
+                            "source": "local",
+                            "value": "Unknown"
+                        }
+                    },
+                    "physdesc": {
+                        "extent": [
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "0 paige_boxes"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            },
+                            {
+                                "altrender": "materialtype spaceoccupied",
+                                "value": "1 Photographic Prints"
+                            }
+                        ],
+                        "altrender": "whole"
+                    },
+                    "unittitle": {
+                        "value": "A group of men sitting outdoors with tables behind them."
+                    },
+                    "unitid": {
+                        "value": "ref5260"
+                    },
+                    "unitdate": {
+                        "normal": "1900/1970",
+                        "type": "inclusive",
+                        "value": "Unknown"
+                    },
+                    "omitempty": "",
+                    "container": {
+                        "id": "aspace_dc5fe64d4500543e6e5f07f64de8be9b",
+                        "label": "Graphic materials",
+                        "type": "Folder",
+                        "value": "26"
+                    }
+                }
+            }
+        },
+        "arrangement": {
+            "id": "aspace_9bbb4dbd40d2a7f1ae15c5a62b27bbe2",
+            "head": "Arrangement",
+            "p": {
+                "value": "This collection was processed as it was acquired."
+            }
+        }
+    }
+}
